@@ -1,0 +1,30 @@
+{
+  "id": "2298322",
+  "name": "外卖",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2478442",
+      "name": "扫一扫",
+      "font_class": "552dc065f0478",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "18501600",
+      "name": "消 息",
+      "font_class": "xiaoxi",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "7190103",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    }
+  ]
+}
